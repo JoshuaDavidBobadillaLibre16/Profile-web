@@ -1,0 +1,66 @@
+{
+    "home": {
+      "name": "Joshua",
+      "description": "Ingeniero de Sistemas con 5 años de experiencia en desarrollo de software, especializado en arquitecturas cloud (AWS, Azure) y gestión de bases de datos relacionales. Apasionado por la implementación de soluciones escalables y seguras, con dominio en lenguajes como Python, Java y JavaScript. Experiencia liderando equipos ágiles y optimizando procesos mediante automatización (DevOps, CI/CD). Certificado en AWS Solutions Architect y Scrum Master, con enfoque en innovación tecnológica y mejora continua. Habilidad destacada para traducir necesidades empresariales en sistemas eficientes, combinando pensamiento analítico y creatividad.",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/rebeca-pedrozo-cueto-05b822314/",
+        "github": "https://github.com/rebeca07-pedrozo",
+        "instagram": "#",
+        "twitter": "#"
+      }
+    },
+    "education": [
+      {
+        "date": "2021",
+        "title": "High School",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      },
+      {
+        "date": "2022",
+        "title": "University",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      },
+      {
+        "date": "2023",
+        "title": "High School",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      },
+      {
+        "date": "2025",
+        "title": "Internship",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      }
+    ],
+    "services": [
+      {
+        "title": "UI Design",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      },
+      {
+        "title": "Frontend Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      },
+      {
+        "title": "Backend Development",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Marilyn",
+        "image": "1.jpg",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      },
+      {
+        "name": "Marilyn",
+        "image": "1.jpg",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      },
+      {
+        "name": "Marilyn",
+        "image": "1.jpg",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus."
+      }
+    ]
+  }
+  
