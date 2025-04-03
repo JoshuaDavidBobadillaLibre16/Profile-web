@@ -462,3 +462,11 @@ span{
     line-height: 1.7;
     margin: auto;
 }
+
+.navbar.active {
+    display: block; /* o flex, según tu diseño */
+  }
+  
+  .bx-x {
+    transform: rotate(90deg); /* para dar feedback visual */
+  }
